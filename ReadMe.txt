@@ -1,1 +1,1 @@
-This script runs ATAC-seq pipeline with following Functionality steps.1. Fastq QC2. Alignment3. Read preprocessing4. Peak calling (macs2)
+This script runs ATAC-seq pipeline with following steps.1. Fastq QC2. Alignment3. Read preprocessing4. Peak calling (macs2)
