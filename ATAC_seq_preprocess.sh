@@ -21,10 +21,13 @@ module load bowtie/2.2.4
 module load MACS2/2.1.1
 module load java/latest  python samtools/1.3  picard-tools/1.92  preseq/1.0.2 bedtools/2.25.0 r/3.2.2 igvtools/2.3.3  preseq/1.0.2 ngsplot/2.47
 
-myDATADIR="/srv/gsfs0/projects/goronzy/Huimin/raw_data"
-myPROJDIR="/srv/gsfs0/projects/goronzy/Huimin"
-mySCRIPTSDIR="/srv/gsfs0/projects/goronzy/RA/scripts"
-mySampleFile="${myPROJDIR}/Run1.txt"
+source ./conf.txt
+
+echo "Following are the set paths"
+echo "Data Dir: ${myDATADIR}"
+echo "Project Dir: ${myPROJDIR}"
+echo "ATAC Scripts Dir: ${mySCRIPTSDIR}"
+echo "Sample Name file: ${mySampleFile}"
 
 ##-----------------------------##
 ##create FolderLayout          ##

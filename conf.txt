@@ -1,0 +1,12 @@
+## Set Up the path Variables
+# Data Directory path
+myDATADIR="/TestDir/raw/TestRun"
+
+# Project Directory path
+myPROJDIR="/TestDir/Analysis/TestRun"
+
+# ATAC Scripts Directory path
+mySCRIPTSDIR="/TestDir/ATACseq_Pipeline/ATAC_scripts"
+
+# Sample Name file
+mySampleFile="${myRawDATADIR}/Run1.txt"
