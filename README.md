@@ -166,9 +166,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Citation
 If you use this pipeline in your research, please cite:
-```
-Jadhav RR, Im SJ, Hu B, Hashimoto M, Li P, Lin JX, Leonard WJ, Greenleaf WJ, Ahmed R, Goronzy JJ. Epigenetic signature of PD-1+ TCF1+ CD8 T cells that act as resource cells during chronic viral infection and respond to PD-1 blockade. Proc Natl Acad Sci U S A. 2022 Feb 22;119(8):e2117314119. doi: 10.1073/pnas.2117314119. PMID: 35085847
-```
+> **Jadhav RR**, Im SJ, Hu B, Hashimoto M, Li P, Lin JX, Leonard WJ, Greenleaf WJ, Ahmed R, Goronzy JJ. Epigenetic signature of PD-1+ TCF1+ CD8 T cells that act as resource cells during chronic viral infection and respond to PD-1 blockade. *Proc Natl Acad Sci U S A*. 2022 Feb 22;119(8):e2117314119. doi: [10.1073/pnas.2117314119](https://doi.org/10.1073/pnas.2117314119). PMID: [35085847](https://pubmed.ncbi.nlm.nih.gov/35085847)
 
 ## Contributing
 Contributions are welcome! Please read the contributing guidelines before submitting pull requests.
