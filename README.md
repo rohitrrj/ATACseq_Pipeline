@@ -44,7 +44,7 @@ A comprehensive pipeline for processing and analyzing ATAC-seq (Assay for Transp
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/ATACseq_Pipeline.git
+git clone https://github.com/rohitrrj/ATACseq_Pipeline.git
 cd ATACseq_Pipeline
 ```
 
@@ -164,9 +164,23 @@ mySampleFile="samples.txt"
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## Citation
-If you use this pipeline in your research, please cite:
-> **Jadhav RR**, Im SJ, Hu B, Hashimoto M, Li P, Lin JX, Leonard WJ, Greenleaf WJ, Ahmed R, Goronzy JJ. Epigenetic signature of PD-1+ TCF1+ CD8 T cells that act as resource cells during chronic viral infection and respond to PD-1 blockade. *Proc Natl Acad Sci U S A*. 2022 Feb 22;119(8):e2117314119. doi: [10.1073/pnas.2117314119](https://doi.org/10.1073/pnas.2117314119). PMID: [35085847](https://pubmed.ncbi.nlm.nih.gov/35085847)
+## Applications
+This pipeline has been used in the following publications:
+
+1. "Epigenetic signature of PD-1+ TCF1+ CD8 T cells that act as resource cells during chronic viral infection and respond to PD-1 blockade"
+   - *Proc Natl Acad Sci U S A*. 2022 Feb 22;119(8):e2117314119
+   - DOI: [10.1073/pnas.2117314119](https://doi.org/10.1073/pnas.2117314119)
+   - PMID: [35085847](https://pubmed.ncbi.nlm.nih.gov/35085847)
+   - Used for analyzing T cell chromatin accessibility patterns
+
+2. "PD-1 combination therapy with IL-2 modifies CD8+ T cell exhaustion program"
+   - *Nature*. 2022 Oct;610(7933):737-743
+   - DOI: [10.1038/s41586-022-05257-0](https://doi.org/10.1038/s41586-022-05257-0)
+   - PMID: [36215562](https://pubmed.ncbi.nlm.nih.gov/36215562)
+   - Applied for chromatin accessibility analysis in T cell exhaustion studies
+
+Code availability:
+⭐ [rohitrrj/ATACseq_Pipeline](https://github.com/rohitrrj/ATACseq_Pipeline) - Comprehensive ATAC-seq data analysis pipeline for chromatin accessibility studies
 
 ## Contributing
 Contributions are welcome! Please read the contributing guidelines before submitting pull requests.
